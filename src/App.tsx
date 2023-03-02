@@ -30,7 +30,7 @@ export default function App() {
           <span className={styles.titleHighlight}>CSS / JSS Converter</span>
         </h1>
         <h2 className={styles.subTitle}>
-          Switch between CSS and JSS with the click of a button.
+          Transform your CSS and JSS with the click of a button
         </h2>
       </header>
       <main className={styles.content}>

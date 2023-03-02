@@ -44,6 +44,6 @@ button {
   justify-content: center;
   gap: 10px;
   font-size: 18px;
-  min-height: 50px;
+  min-height: 40px;
   border-radius: 40px;
 }
