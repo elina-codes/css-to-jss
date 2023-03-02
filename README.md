@@ -10,7 +10,7 @@ Full disclosure, this was built in a day. Please don't hesitate to report bugs o
 
 ## How to Use
 
-<img alt="CSS to JSS App Screenshot" src="src/assets/app-screenshot.png" width="700" />&nbsp;&nbsp;&nbsp;
+<img alt="CSS to JSS App Screenshot" src="public/css-to-jss.png" width="700" />&nbsp;&nbsp;&nbsp;
 
 1. Enter the value you want to convert into the left-hand textbox.
 2. Click on the top action button to start the conversion process.

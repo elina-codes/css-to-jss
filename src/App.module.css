@@ -35,3 +35,8 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.divider {
+  color: #777;
+  margin: 0 5px;
+}
