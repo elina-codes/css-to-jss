@@ -1,6 +1,6 @@
 # Introduction
 
-Have you been tasked with refactoring your project's styling from JSS to CSS? Have you found a neat CSS snippet you want to integrate into your JSS-based project? Are you just plain in a hurry? Well have I got the tool for you!
+Have you been tasked with refactoring your project's styling from JSS to CSS? Have you found a neat CSS snippet you want to integrate into your JSS-based project? Are you just in a hurry? Well have I got the tool for you!
 
 Transform your CSS into JSS and your JSS into CSS with this one simple trick: this app.
 
