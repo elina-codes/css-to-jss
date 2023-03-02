@@ -1,6 +1,6 @@
 import { SyntheticEvent, useState } from "react";
 import styles from "./App.module.css";
-import { cssToJssString, jssToCssString } from "./common/helpers";
+import { cssToJssString, jssToCssString } from "./helpers";
 import ConversionView from "./ConversionView";
 
 type ConversionType = "cssToJss" | "jssToCss";
